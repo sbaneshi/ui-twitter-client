@@ -10,7 +10,7 @@
     </parent>
     <groupId>ir.ac.ui</groupId>
     <artifactId>ui-twitter-client</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>ui-twitter-client</name>
     <description>ui-twitter-client</description>
     <properties>
